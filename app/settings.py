@@ -1,0 +1,6 @@
+valid_username = "admin"
+valid_password = "admin"
+invalid_username = "dgsdfhgadfh"
+invalid_password = "134334"
+empty_username = ""
+empty_password = ""
